@@ -15,7 +15,7 @@ Arduino riceve i comandi da un programma di visione 3D tramite una web cam oppur
 **Consegna:** 19.01.2018
 * [Documentazione](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni "Cartella documentazione")
   + [Quaderno dei compiti](https://github.com/LuMug/AirIceHockey/blob/master/Documenti_Esterni/qdc_p2_samt_2017_18-Ice_Hockey_Robot.docx "Quaderno dei compiti")
-  + [Motori passo passo](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni/Stepper_Motors "Cartella motori passo passo")
+  + [Motori passo-passo](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni/Stepper_Motors "Cartella motori passo passo")
   + [Foto di montaggio](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni/Evo_Parts/images "Montaggi")
 * [Trello Project Management](https://trello.com/b/uI6cxGCE/airicehockey "Trello")
 * [GitHub Repository](https://github.com/LuMug/AirIceHockey "GitHub Progetto")
