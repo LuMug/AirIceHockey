@@ -20,4 +20,4 @@ Arduino riceve i comandi da un programma di visione 3D tramite una web cam oppur
 * [Trello Project Management](https://trello.com/b/uI6cxGCE/airicehockey "Trello")
 * [GitHub Repository](https://github.com/LuMug/AirIceHockey "GitHub Progetto")
 ## Diari
-* [Diari](https://github.com/LuMug/AirIceHockey/tree/master/diari "Diari")
+* [Diari](https://github.com/LuMug/AirIceHockey/tree/master/Diari "Diari")
