@@ -1,11 +1,14 @@
 # Air Ice Hockey
+### Descrizione
+Si tratta di realizzare un gioco di Air Ice Hockey che permetta ad un giocatore di giocare contro un sistema robotizzato costituito da due motori passo-passo controllati da un Arduino.
+Arduino riceve i comandi da un programma di visione 3D tramite una web cam oppure sfruttando un’applicazione su uno smartphone e la camera dello stesso.
 ### Docenti Responsabili
 * Luca Muggiasca
-* Adriano archi
+* Adriano Barchi
 ### Lavoratori
 * Alessia Sarak
 * Joey Biancardi
-* Alessadnro Spagnuolo
+* Alessandro Spagnuolo
 * Giairo Mauro
 ## Info
 **Inizio:** 10.11.2017  
@@ -15,6 +18,6 @@
   + [Motori passo passo](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni/Stepper_Motors "Cartella motori passo passo")
   + [Foto di montaggio](https://github.com/LuMug/AirIceHockey/tree/master/Documenti_Esterni/Evo_Parts/images "Montaggi")
 * [Trello Project Management](https://trello.com/b/uI6cxGCE/airicehockey "Trello")
-* [GitHub Repository](https://github.com/LuMug/AirIceHockey "GiHub Progetto")
+* [GitHub Repository](https://github.com/LuMug/AirIceHockey "GitHub Progetto")
 ## Diari
-* [Dari](https://github.com/LuMug/AirIceHockey/tree/master/diari "Diari")
+* [Diari](https://github.com/LuMug/AirIceHockey/tree/master/diari "Diari")
